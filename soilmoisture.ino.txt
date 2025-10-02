@@ -1,8 +1,4 @@
 
----
-
-## 📜 SoilMoisture.ino (Arduino Code)
-```cpp
 const int sensor_pin = A0; 
 
 void setup() { 
@@ -20,3 +16,4 @@ void loop() {
   
   delay(1000);  // Update every second
 }
+
